@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Rokket-Labs](https://github.com/rokket-labs)
 
-- 🌱 I’m currently learning **NextJs, Apollo, Chakra-ui and TypeScript**
+- 🌱 I’m currently learning **NextJs 13, T3-Stack (Prisma, tRPC, NextJs, TypeScript, Tailwind, Next-Auth), React-query and NestJs**
 
-- 💬 Ask me about **React, React-Native**
+- 💬 Ask me about **React, React-Native, TypeScript, Native-Base, Chakra-ui**
 
 - 📫 How to reach me **zneel.yevenes@gmail.com**
 
