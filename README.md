@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brayan</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h3 align="center">A passionate frontend && Mobile developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byevenes&label=Profile%20views&color=0e75b6&style=flat" alt="byevenes" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Drimo](https://github.com/rokket-labs)
 
-- 🌱 I’m currently learning **NextJs 13, T3-Stack (Prisma, tRPC, NextJs, TypeScript, Tailwind, Next-Auth), React-query and NestJs**
+- 🌱 I’m currently learning **NextJs 13, T3-Stack (Prisma, tRPC, NextJs, TypeScript, Tailwind, Next-Auth), TanStack-query, Zustand, Jotai, Drizzle, Neon, Aws and NestJs**
 
-- 💬 Ask me about **React, React-Native, TypeScript, Native-Base, Chakra-ui**
+- 💬 Ask me about **React, React-Native, TypeScript, TanStack-query, Jotai, Zustand, MongoDB, Native-Base, Chakra-ui**
 
 - 📫 How to reach me **zneel.yevenes@gmail.com**
 
