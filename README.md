@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byevenes" alt="byevenes" /></a> </p>
 
-- 🔭 I’m currently working on [Drimo](https://github.com/rokket-labs)
+- 🔭 I’m currently working on [Goat](https://github.com/gealium)
 
 - 🌱 I’m currently learning **NextJs 13, T3-Stack (Prisma, tRPC, NextJs, TypeScript, Tailwind, Next-Auth), TanStack-query, Zustand, Jotai, Drizzle, Neon, Aws and NestJs**
 
