@@ -1,31 +1,48 @@
-<h1 align="center">Hi 👋, I'm Brayan</h1>
-<h3 align="center">A passionate frontend && Mobile developer from Chile</h3>
+<h1 align="center">Hi, I'm Brayan Yévenes 👋</h1>
+<h3 align="center">Senior Full Stack & Mobile Engineer · React · React Native · TypeScript · Next.js · Node.js · NestJS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=byevenes&label=Profile%20views&color=0e75b6&style=flat" alt="byevenes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byevenes" alt="byevenes" /></a> </p>
-
-- 🔭 I’m currently working on [Goat](https://github.com/gealium)
-
-- 🌱 I’m currently learning **NextJs 13, T3-Stack (Prisma, tRPC, NextJs, TypeScript, Tailwind, Next-Auth), TanStack-query, Zustand, Jotai, Drizzle, Neon, Aws and NestJs**
-
-- 💬 Ask me about **React, React-Native, TypeScript, TanStack-query, Jotai, Zustand, MongoDB, Native-Base, Chakra-ui**
-
-- 📫 How to reach me **zneel.yevenes@gmail.com**
-
-- ⚡ Fun fact **I think I am really funny and sociable**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brayan-yévenes-pérez-0322b5187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan-yévenes-pérez-0322b5187" height="30" width="40" /></a>
-<a href="https://instagram.com/zbyevenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zbyevenes" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/brayan-yevenes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@zneel.yevenes"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:zneel.yevenes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I'm a **Senior Software Engineer** based in Chile, building reliable web and mobile products end to end — with modern, AI-assisted engineering workflows.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=byevenes&show_icons=true&locale=en&layout=compact" alt="byevenes" /></p>
+- 🔭 Currently: **Senior Software Engineer @ TINET S.A.** (web & mobile, distributed teams across 8 countries)
+- 🤖 AI-first workflow: coding agents, agent skills (SKILL.md), MCP, and AI pair programming for faster, quality-safe delivery
+- 🌱 Learning: **Effect-TS**, T3 Stack, AWS, Docker & Kubernetes
+- 💬 Ask me about: React, React Native, TypeScript, Next.js, Node.js, NestJS, TanStack Query, Effect-TS, AI-assisted development
+- ⚡ Building in public: open source + writing on Medium about frontend tooling
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byevenes&show_icons=true&locale=en" alt="byevenes" /></p>
+### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byevenes&" alt="byevenes" /></p>
+**Frontend:** React · React Native · Next.js · TypeScript · Tailwind CSS · Chakra UI · NativeBase · Redux · Zustand · Jotai · TanStack Query
+**Backend:** Node.js · NestJS · Express · tRPC · Next-Auth · Prisma · Drizzle ORM · **Effect-TS (exploring)**
+**Data & Cloud:** PostgreSQL · MongoDB · Firebase · Azure · AWS (Serverless/SST) · Docker
+**AI Workflows:** Coding agents · Agent skills (SKILL.md) · MCP (Model Context Protocol) · AI pair programming
+**Tooling:** Git · Jest · Mocha · Postman · Figma · fzf · oclif
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [PaymentCLI](https://github.com/platanus-hack/team-9) | **2nd place at Platanus Hack 2024** (Chile TechWeek). CLI + SDK that accelerates payment-method integration up to 10x, with secure API-key management. Built in 36h with a team of 4. |
+| [testing-coffee-kirimase](https://github.com/Byevenes/testing-coffee-kirimase) | Full-stack app scaffolded with kirimase: Next.js 13, Drizzle ORM, tRPC, Auth.js, shadcn/ui. Type-safe end to end. |
+| [next-open-jira](https://github.com/Byevenes/next-open-jira) | Jira-style project management app with Next.js — drag & drop, board management. |
+| [nestjs_course](https://github.com/Byevenes/nestjs_course) | NestJS fundamentals: modules, providers, controllers, services, DTOs. |
+| [sistema-de-colas-with-NodeJS](https://github.com/Byevenes/sistema-de-colas-with-NodeJS) | Real-time queue system with Node.js and WebSockets. |
+| [react-journal-app](https://github.com/Byevenes/react-journal-app) | Journal SPA with React, Redux, and Firestore. |
+
+### 🏆 Hackathon
+
+**PaymentCLI** — [Platanus Hack 2024](https://blog.platan.us/chile-techweek-18/), Chile TechWeek · 2nd place in track, 59 votes
+> CLI + SDK to integrate payment methods in minutes. Team: [Gabriel Pérez](https://garox.medium.com/hackathon-pv-08f695cdae87), Branndon Muñoz, Diego García & me.
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/brayan-yevenes/)
+- [Medium](https://medium.com/@zneel.yevenes)
+- Email: zneel.yevenes@gmail.com
+
+*Open to remote opportunities, freelance, and interesting conversations.*
